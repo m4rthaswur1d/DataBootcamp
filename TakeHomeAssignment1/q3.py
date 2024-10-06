@@ -5,5 +5,5 @@ while i <= 20:
         print(i, "IS EVEN")
     else:
         print(i, "IS ODD")
-    i = i + 1
+    i += 1
     
